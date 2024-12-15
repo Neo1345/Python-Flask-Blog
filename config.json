@@ -1,0 +1,18 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/blogs",
+        "prod_uri":"mysql://root:@localhost/blogs",
+        "fb_url":"https://facebook.com",
+        "tw_url":"https://twitter.com",
+        "gw_url":"https://github.com",
+        "gmail-user": "akashsoni0810@gmail.com",
+        "gmail-password": "nunrkeglyxjurisc",
+        "no_of_posts":2,
+        "admin_user":"akash",
+        "password":"learnflask",
+        "file_location":"D:\\python and Data Science\\Flask\\static"
+
+    }
+}
